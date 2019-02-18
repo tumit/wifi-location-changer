@@ -1,5 +1,6 @@
 # Mac OSX Wi-Fi Location Changer
 
+* Update locationchanger follow this blog: http://rystraum.com/mac-os-x-how-to-change-your-location-based-on-wifi-ssid/
 * Automatically changes the Mac OSX network location when Wi-Fi connection SSID changes
 * Allows having different IP settings depending on the Wi-Fi SSID
 
